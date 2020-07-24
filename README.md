@@ -7,12 +7,14 @@ I'm self driven, hard working and friendly. I also hold a Master degree in Commu
 
 ## Experience:	
 
-### founder of All Digital (2020-today)
+### Founder of All Digital  agency (2020-today)
 
 Since 2019 I work on IT-projects  basis, while constantly learning to keep up with the lastest trends in UX design and Web development.
 
-### Front-end developer at Xeneta (2015-2016)
-I worked at a front-end developer for an Oslo-based startup called Xeneta. They provide pricing analytics for the sea freight industry. I worked on the customer-facing app, and mainly with React.js.
+### Front-end developer at Proyecto EQUAL(2019-2020)
+I worked as a freelance web developer for Iniciativa Barcelona Open Data. 
+They provide pricing analytics for the sea freight industry. I worked on the customer-facing app, and mainly with React.js.
+https://projecte-equal.com/
 
 ### Founders & Coders (2015)	### Founders & Coders (2015)
 In early 2015 I enrolled as a student at Founders & Coders in London. F&C is a 3 month intensive coding course with a focus on Javascript and Node JS. After graduation, I've worked with commercial clients, mostly building MVP's for startups.	In early 2015 I enrolled as a student at Founders & Coders in London. F&C is a 3 month intensive coding course with a focus on Javascript and Node JS. After graduation, I've worked with commercial clients, mostly building MVP's for startups.
