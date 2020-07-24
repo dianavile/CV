@@ -5,19 +5,27 @@ Passionate about Tech, web development & UX Design and Certified by Udacity/Goog
 
 I'm self driven, hard working and friendly. I also hold a Master degree in Communications Science. 
 
-## Experience:	
+## Experience:
 
-### Founder of All Digital  agency (2020-today)
+### Mentor @TipsCool (2020)
+Since May, I mentor professionals interested in working in the IT sector on a Monthly base. Basically by sharing my working experience in the IT Sector and solving their doubts and questions regarding UX Design, Front-end Web development and Digital Marketing.
+https://www.tipscool.com/
 
-Since 2019 I work on IT-projects  basis, while constantly learning to keep up with the lastest trends in UX design and Web development.
+### Mentor @TechnovationGirls Catalunya (2020)
+Between January and May I helped a junior team of 5 girls in the age of 10-13 years creating a web application from idea untill Minimal Viable Project (MVP).
+The results were presented in an online meetup with around 60 teams all over Catalunya.
+https://technovationchallenge.org/
 
-### Front-end developer at Proyecto EQUAL(2019-2020)
+### Founder of All Digital Agency (2019-today)
+Since the end of 2018, I work on IT-projects, while constantly learning to keep up with the lastest trends in UX design and Web development. This resulted in september 2019 into my own Company "All Digital Agency".
+
+### Front-end developer @Proyecto EQUAL(2019-2020)
 I worked as a freelance web developer for Iniciativa Barcelona Open Data. 
 They provide pricing analytics for the sea freight industry. I worked on the customer-facing app, and mainly with HTML5, CSS and a bit of JavaScript. 
 The presentation of the project was held on 9th of March at Barcelona Innoba Center in the 22@ district.
 https://projecte-equal.com/
 
-### Front-end developer at MEETOPTICS (2019)
+### Front-end developer @MEETOPTICS (2019)
 In the summer of 2019 I started to work at MEETOPTICS as a freelance web developer at the University Politecnica Catalunya (UPC Empren).
 MEETOPTICS is a highly customisable search engine made especially for researchers and optical engineers in photonics.
 I created their Landing, Login, Infopages, with Services and Productdescriptions in HTML, CSS and Vue.js and some basic web scraping in Python.
@@ -40,24 +48,27 @@ In Spring 2013, I started as a customer service support employee at a European I
 After graduation with distinction from Communication Science, I started working as a Freelance Journalist, combining online articles about Current Society Debates in ArtHouse Lux with TV journalism, prsenting, camerawork and editing of televisionnews items for Nijmegen1, the local TV station of the city Nijmegen.
 In 2008 I moved to Barcelona, Spain and have been working for several Dutch and Spanish online Media. I also wrote and published three books between 2010-2018. 
 
-**Front-end Languages:**	
-*  HTML5,	
-*  CSS3, 
+## Education
+### IT Academy @ Barcelona Activa/Cybernarium (2020)
+In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all class material is online. 
+Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript and a bit of Java.
+
+**Front-end skills:**	
+* HTML5,	
+* CSS3 (Flexbox, Grid, Animations),
 * Bootstrap 4,
+* Responsive Web Design
 * Sass,	
 * jQuery,	
-* Bootstrap,
-* React JS & Flux	* React JS
-* Responsive Web Design
-* Javascript	
-*  Functional Programming & Object-Oriented Programming (OOP),
+* Javascript (Functional Programming & Object-Oriented Programming (OOP)),	
+* React JS 
+* Redux	 
 * Web Accessibility,
-*  Jasmine (JS testing)
+* Jasmine (JS testing)
 * Git
 * Nodejs
-* React
-* Redux
+* XAMPP
+* MySQL, SQL queries (basics)
 
 ### Other:
-Other than coding, I enjoy [writing about coding](https://medium.com/@diana.vile). I also like to visit musea, cinema and other cultural activities. You can call me for a Chai Latte or coffee and nature is where run too, if the city becomes too crowdy. Enjoying familylife and always learning new things related to webdesign and webdevelopment. That is who I am in a nutshell.
-
+Other than coding, I enjoy [writing about coding](https://medium.com/@diana.vile). I also like to visit musea, cinema and other cultural activities. You can call me for a Chai Latte or coffee and walk in nature. Enjoying familylife and learning new things related to webdesign and webdevelopment. 
