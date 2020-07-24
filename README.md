@@ -1,7 +1,7 @@
 # Diana Vilé 
 I'm a freelance Frontend Web Developer, with special interest in UX design, who loves to create, build and optimize digital products to help people, businesses and institutions succeed online. With 10+ years experience in Digital Marketing, SEO, Content Management, online and TV Journalism.
 
-I enjoy building digital products, mostly websites and web applications. Preferrably in HTML, CSS, Javascript, React. 
+Passionate about Tech, web development & UX Design and Certified by Udacity/Google, I enjoy building digital products, mostly websites and web applications.
 
 I'm self driven, hard working and friendly. I also hold a Master degree in Communications Science. 
 
@@ -22,17 +22,23 @@ In early 2015 I enrolled as a student at Founders & Coders in London. F&C is a 3
 After finishing my studies I founded a kids app company named Propell, which I ran for 2.5 years as the CEO. Propell's childrens books, educational material and music apps have been downloaded over 1 million times by parents around the world. My responsibilities included product development, management, marketing, accounting and everything else related to running a startup. Check out our [Disco Fingers](https://itunes.apple.com/us/app/disco-fingers/id809680953?mt=8) app here.	After finishing my studies I founded a kids app company named Propell, which I ran for 2.5 years as the CEO. Propell's childrens books, educational material and music apps have been downloaded over 1 million times by parents around the world. My responsibilities included product development, management, marketing, accounting and everything else related to running a startup. Check out our [Disco Fingers](https://itunes.apple.com/us/app/disco-fingers/id809680953?mt=8) app here.
 
 
-**Languages:**	
-* Javascript	
-
-
-**Front-end:
-* HTML	
-* CSS & Sass	
-* jQuery	
-* Bootstrap
+**Front-end Languages:**	
+*  HTML5,	
+*  CSS3, 
+* Bootstrap 4,
+* Sass,	
+* jQuery,	
+* Bootstrap,
 * React JS & Flux	* React JS
-
+* Responsive Web Design
+* Javascript	
+*  Functional Programming & Object-Oriented Programming (OOP),
+* Web Accessibility,
+*  Jasmine (JS testing)
+* Git
+* Nodejs
+* React
+* Redux
 
 ### Other:	### Other:
 Other than coding, I enjoy [writing about coding](https://medium.com/@diana.vile). I also like to visit musea, cinemas and other cultural activities.
