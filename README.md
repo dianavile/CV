@@ -66,6 +66,7 @@ https://www.udacity.com/course/digital-marketing-nanodegree--nd018
 I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In several months, I learned  how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
 
+## Skills:
 **Front-end skills:**	
 * HTML5,	
 * CSS3 (Flexbox, Grid, Animations),
