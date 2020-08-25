@@ -1,7 +1,7 @@
 # Diana Vilé 
 I'm a freelance Frontend Web Developer, with special interest in UX design, who loves to create, build and optimize digital products to help people, businesses and institutions succeed online. With 10+ years experience in Digital Marketing, SEO, Content Management, online and TV Journalism.
 
-Passionate about Tech, web development & UX Design and Certified by Udacity/Google, I enjoy building websites and web applications.
+Passionate about Tech, web development & UX Design and Certified by Udacity/Google, I enjoy designing prototypes, building websites and web applications and optimize them.
 
 I'm self driven, hard working and friendly. I also hold a Master degree in Communications Science. 
 
@@ -69,19 +69,21 @@ https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
 **Front-end skills:**	
 * HTML5,	
 * CSS3 (Flexbox, Grid, Animations),
-* Bootstrap 4,
-* Responsive Web Design
 * Sass,	
+* Bootstrap 4,
+* Responsive Web Design,
+* Web Accessibility,
+* Web Design & Prototyping with Figma,
+* Git,
 * jQuery,	
 * Javascript (Functional Programming & Object-Oriented Programming (OOP)),	
 * React JS 
 * Redux	 
-* Web Accessibility,
 * Jasmine (JS testing)
-* Git
 * Nodejs
 * XAMPP
-* MySQL, SQL queries (basics)
+* MySQL, SQL queries
+* Algoritms, Datatypes.
 
 ### Other:
-Other than coding, I enjoy [writing about coding](https://medium.com/@diana.vile). I also like to visit musea, cinema and other cultural activities. You can call me for a Chai Latte or coffee and walk in nature. Enjoying familylife and learning new things related to webdesign and webdevelopment. 
+Other than coding, I enjoy [writing about coding](https://medium.com/@diana.vile). I also like to visit musea, cinema and other cultural activities. You can call me for a Chai Latte or coffee and walk in nature. Enjoying familylife and constantly learning new things related to webdesign and webdevelopment. 
