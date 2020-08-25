@@ -86,4 +86,4 @@ https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
 * Algoritms, Datatypes.
 
 ### Other:
-Other than coding, I enjoy [writing about coding](https://medium.com/@diana.vile). I also like to visit musea, cinema and other cultural activities. You can call me for a Chai Latte or coffee and walk in nature. Enjoying familylife and constantly learning new things related to webdesign and webdevelopment. 
+Other than coding, I enjoy [writing about coding](https://medium.com/@diana.vile). I also like to visit musea, cinema and other cultural activities. You can call me for a Chai Latte or coffee and walk in nature. Enjoying familylife and constantly learning new things related to webdesign and webdevelopment is what keeps me alive and kicking. 
