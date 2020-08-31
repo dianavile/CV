@@ -44,7 +44,7 @@ https://allwomen.tech
 ### Senior WebMaster and Online Marketeer @Active24, a Visma Company (2013-2018)
 In Spring 2013, I started as a customer service support employee at a European Internet Service Provider (ISP). After an internal sollicitation, I quickly moved into the Marketing department, being responsible for Content creating, Social Media, localization of New Products and SEO.
 
-### Freelance journalist-foundera @Diana Vilé I Journalist in Spain (2006 - 2015)
+### Freelance journalist-founder @Diana Vilé I Journalist in Spain (2006 - 2015)
 After graduation with distinction from Communication Science, I started working as a Freelance Journalist, combining online articles about Current Society Debates in ArtHouse Lux with TV journalism, prsenting, camerawork and editing of televisionnews items for Nijmegen1, the local TV station of the city Nijmegen.
 In 2008 I moved to Barcelona, Spain and have been working for several Dutch and Spanish online Media. I also wrote and published three books between 2010-2018. 
 
