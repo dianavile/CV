@@ -1,5 +1,5 @@
 # Diana Vilé 
-I'm a freelance Frontend Web Developer, with special interest in UX design, who loves to create, build and optimize digital products to help people, businesses and institutions succeed online. With 10+ years experience in Digital Marketing, SEO, Content Management, online and TV Journalism.
+I'm a freelance Frontend Web Developer, with special interest in UX design, who loves to create, build and optimize digital products to help people, businesses and institutions succeed online. With 10+ years experience in Digital Marketing, SEO, Content Management, and TV Journalism.
 
 Passionate about Tech, web development & UX Design and Certified by Udacity/Google, I enjoy designing prototypes, building websites and web applications and optimize them.
 
