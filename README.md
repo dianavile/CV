@@ -2,15 +2,15 @@
 
 - :computer: I'm a freelance Frontend Web Developer. 
 - :heart: I love to code, design prototypes, build websites and web applications.
+- :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
 - :electric_plug: **My GOAL: work as a professional Front-end Developer in a vibrant Tech company in Barcelona**.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - :camera: Experience 10+ years in Digital Marketing (SEO,Content Management) & TV-Journalism.
-- :gem: Communications Science (Master degree), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree certificates). 
-- :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
+- :gem: Communications Science (Master), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree). 
 
 ### Sparetime: :point_down:
-- :clapper:  I like to visit musea, cinema and anything cultural. 
+- :clapper: I like to visit musea, cinema and anything cultural. 
 - :bicyclist: You can find me biking on a foldable bike,  drinking a Chai Latte or Café con Leche and walking in nature.
 - :tulip: Enjoying familylife and constantly learning new things related to webdesign and webdevelopment is what keeps me alive and kicking. 
 
