@@ -1,11 +1,11 @@
 # Hi :raising_hand: I'm Diana Vilé 
 
 - :computer: I'm a freelance Frontend Web Developer. 
-- :heart: I love to code, and design prototypes, build websites and web applications and optimize them.
+- :heart: I love to code, design prototypes, build websites and web applications.
 - :electric_plug: **My GOAL** is to work as a professional Front-end Developer in a vibrant Tech company in Barcelona.
 - :octocat: I am open to collaborate with other digital content creators.
-- :books: Always learning new things, self driven, hard working and friendly.
-- :microphone: With 10+ years of experience in Digital Marketing(SEO,Content Management) & Journalism.
+- :books: Always learning new things, self driven, hard working and friendly.:smiley:
+- :camera: With 10+ years of experience in Digital Marketing(SEO,Content Management) & Journalism.
 - :gem: I hold a Master degree in Communications Science, a Postdoc in TV-reporting, and certificates in webdevelopment, UX Design and Digital Marketing. 
 
 :point_right: ### Other:
@@ -15,7 +15,7 @@
 
 <br />
 
-:point_right: ### I´m using the following languages and Tools:
+### I´m using the following languages and Tools: :point_down: 
 * Responsive Web Design, Web Accessibility & Web Design & Prototyping with Figma.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
