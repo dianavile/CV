@@ -1,12 +1,12 @@
 # Hi :raising_hand: I'm Diana Vilé 
 
-- I'm a freelance Frontend Web Developer. 
+- :computer: I'm a freelance Frontend Web Developer. 
 - :heart: I love to code, and design prototypes, build websites and web applications and optimize them.
-- My GOAL is to work in a vibrant Tech company in Barcelona as a professional Front-end Developer.
-- :octocat: Always open to collaborate with other digital content creators.
-- Always learning new things, self driven, hard working and friendly.
-- With 10+ years of prior experience in Digital Marketing(SEO,Content Management) & Journalism.
-- Oh yeah, I do hold a Master degree in Communications Science, a Postdoc in TV reporting, and Nanodegree certificates in webdevelopment, UX Design and Digital Marketing too. 
+- :electric_plug: My GOAL is to work as a professional Front-end Developer in a vibrant Tech company in Barcelona.
+- :octocat: I am open to collaborate with other digital content creators.
+- :books: Always learning new things, self driven, hard working and friendly.
+- :microphone: With 10+ years of experience in Digital Marketing(SEO,Content Management) & Journalism.
+- :gem: Oh yeah, I hold a Master degree in Communications Science, a Postdoc in TV reporting, and certificates in webdevelopment, UX Design and Digital Marketing too. 
 
 :point_right: ### Other:
 - In my spare time: I enjoy [writing about coding](https://medium.com/@diana.vile). And like to visit musea, cinema and other cultural activities. 
