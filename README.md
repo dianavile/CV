@@ -1,22 +1,21 @@
 # Hi :raising_hand: I'm Diana Vilé 
 
 - I'm a freelance Frontend Web Developer. 
-- :heart: I really love to code, and enjoy designing prototypes, building websites and web applications and optimize them.
+- :heart: I love to code, and design prototypes, build websites and web applications and optimize them.
 - My GOAL is to work in a vibrant Tech company in Barcelona as a professional Front-end Developer.
 - :octocat: Always open to collaborate with other digital content creators.
 - Always learning new things, self driven, hard working and friendly.
 - With 10+ years of prior experience in Digital Marketing(SEO,Content Management) & Journalism.
 - Oh yeah, I do hold a Master degree in Communications Science, a Postdoc in TV reporting, and Nanodegree certificates in webdevelopment, UX Design and Digital Marketing too. 
 
-### Other:
+:point_right: ### Other:
 - In my spare time: I enjoy [writing about coding](https://medium.com/@diana.vile). And like to visit musea, cinema and other cultural activities. 
 - You can also find me biking on a foldable bike or call me for a Chai Latte, Café con Leche or a walk in nature.
 - Enjoying familylife and constantly learning new things related to webdesign and webdevelopment is what keeps me alive and kicking. 
 
 <br />
 
-**Front-end skills:**	 
-### I´m using the following languages and Tools:
+:point_right: ### I´m using the following languages and Tools:
 * Responsive Web Design, Web Accessibility & Web Design & Prototyping with Figma.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -34,19 +33,17 @@
 
 <br />
 
-### Contact me on Social Netwoks:
+:point_right: ### Contact me on:
 [<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about.svg" />][aboutme]
 
 [linkedin]: https://www.linkedin.com/in/dianavile/
 [medium]: https://medium.com/@diana.vile
-[about me]: https://about.me/dianavile
 
 <br />
 <br />
  
-## Experience:
+:point_right: ## Experience:
 
 ### Mentor @TipsCool (2020)
 Since May, I mentor professionals interested in working in the IT sector on a Monthly base. Basically by sharing my working experience in the IT Sector and solving their doubts and questions regarding UX Design, Front-end Web development and Digital Marketing.
