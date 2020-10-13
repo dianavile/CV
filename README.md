@@ -1,4 +1,4 @@
-#### Hi I'm Diana Vilé :raising_hand:
+### Hi :raising_hand: I'm Diana Vilé
 
 - :computer: I'm a freelance Frontend Web Developer. 
 - :heart: I love to code, design prototypes, build websites and web applications.
@@ -12,7 +12,7 @@
 ### Sparetime: :point_down:
 - :clapper: I like to visit musea, cinema and anything cultural. 
 - :bicyclist: You can find me biking on a foldable bike,  drinking a Chai Latte or Café con Leche and walking in nature.
-- :tulip: Enjoying familylife and constantly learning new things related to webdesign and webdevelopment is what keeps me alive and kicking. 
+- :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking. 
 
 <br />
 
@@ -33,7 +33,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-:point_right: ### Contact me on:
+### Contact me on::point_down:
 [<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
@@ -43,7 +43,7 @@
 <br />
 <br />
  
-:point_right: ## Experience:
+## Experience: :gem: :point_down: 
 
 ### Mentor @TipsCool (2020)
 Since May, I mentor professionals interested in working in the IT sector on a Monthly base. Basically by sharing my working experience in the IT Sector and solving their doubts and questions regarding UX Design, Front-end Web development and Digital Marketing.
@@ -86,7 +86,7 @@ In Spring 2013, I started as a customer service support employee at a European I
 After graduation with distinction from Communication Science, I started working as a Freelance Journalist, combining online articles about Current Society Debates in ArtHouse Lux with TV journalism, prsenting, camerawork and editing of televisionnews items for Nijmegen1, the local TV station of the city Nijmegen.
 In 2008 I moved to Barcelona, Spain and have been working for several Dutch and Spanish online Media. I also wrote and published three books between 2010-2018. 
 
-## Education
+## Education :books: :point_down: 
 ### IT Academy @Barcelona Activa/Cybernarium (2020)
 In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all class material is online & inhouse. 
 Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
