@@ -1,9 +1,51 @@
-# Diana Vilé 
-I'm a freelance Frontend Web Developer, with special interest in UX design, who loves to create, build and optimize digital products to help people, businesses and institutions succeed online. With 10+ years experience in Digital Marketing, SEO, Content Management, and Journalism.
+# ### Hi :raising_hand: I'm Diana Vilé 
 
-Passionate about Tech, web development & UX Design and Certified by Udacity/Google, I enjoy designing prototypes, building websites and web applications and optimize them.
+- I'm a freelance Frontend Web Developer. 
+- :heart: I really love to code, and enjoy designing prototypes, building websites and web applications and optimize them.
+- My GOAL is to work in a vibrant Tech company in Barcelona as a professional Front-end Developer.
+- :octocat: Always open to collaborate with other digital content creators.
+- Always learning new things, self driven, hard working and friendly.
+- With 10+ years of prior experience in Digital Marketing(SEO,Content Management) & Journalism.
+- Oh yeah, I do hold a Master degree in Communications Science, a Postdoc in TV reporting, and Nanodegree certificates in webdevelopment, UX Design and Digital Marketing too. 
 
-I'm self driven, hard working and friendly. I also hold a Master degree in Communications Science. 
+### Other:
+- In my spare time: I enjoy [writing about coding](https://medium.com/@diana.vile). And like to visit musea, cinema and other cultural activities. 
+- You can also find me biking on a foldable bike or call me for a Chai Latte, Café con Leche or a walk in nature.
+- Enjoying familylife and constantly learning new things related to webdesign and webdevelopment is what keeps me alive and kicking. 
+
+<br />
+
+**Front-end skills:**	 
+### I´m using the following languages and Tools:
+* Responsive Web Design, Web Accessibility & Web Design & Prototyping with Figma.
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> (Flexbox, Grid, Animations)
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />(Algoritms, Datatypes,Functional Programming & Object-Oriented Programming (OOP), Jasmine Testing, jQuery).
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+### Contact me on Social Netwoks:
+[<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][twitter]
+[<img align="left" alt="dianavile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[linkedin]: https://www.linkedin.com/in/dianavile/
+[medium]: https://medium.com/_DianaVilé
+[instagram]: https://www.instagram.com/_dianavile
+<br />
+<br />
+ 
 
 ## Experience:
 
@@ -50,8 +92,8 @@ In 2008 I moved to Barcelona, Spain and have been working for several Dutch and 
 
 ## Education
 ### IT Academy @Barcelona Activa/Cybernarium (2020)
-In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all class material is online. 
-Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript, explained in Java.
+In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all class material is online & inhouse. 
+Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
 https://cibernarium.barcelonactiva.cat/es/it-academy
 
 ### UX Designer Nanodegree @Udacity (2020)
@@ -66,25 +108,4 @@ https://www.udacity.com/course/digital-marketing-nanodegree--nd018
 I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In several months, I learned  how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
 
-## Skills:
-**Front-end skills:**	
-* HTML5,	
-* CSS3 (Flexbox, Grid, Animations),
-* Sass,	
-* Bootstrap 4,
-* Responsive Web Design,
-* Web Accessibility,
-* Web Design & Prototyping with Figma,
-* Git,
-* jQuery,	
-* Javascript (Functional Programming & Object-Oriented Programming (OOP)),	
-* React JS 
-* Redux	 
-* Jasmine (JS testing)
-* Nodejs
-* XAMPP
-* MySQL, SQL queries
-* Algoritms, Datatypes.
 
-### Other:
-Other than coding, I enjoy [writing about coding](https://medium.com/@diana.vile). I also like to visit musea, cinema and other cultural activities. You can call me for a Chai Latte or coffee and walk in nature. Enjoying familylife and constantly learning new things related to webdesign and webdevelopment is what keeps me alive and kicking. 
