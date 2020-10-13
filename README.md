@@ -2,21 +2,22 @@
 
 - :computer: I'm a freelance Frontend Web Developer. 
 - :heart: I love to code, design prototypes, build websites and web applications.
-- :electric_plug: **My GOAL** is to work as a professional Front-end Developer in a vibrant Tech company in Barcelona.
+- :electric_plug: **My GOAL: work as a professional Front-end Developer in a vibrant Tech company in Barcelona**.
 - :octocat: I am open to collaborate with other digital content creators.
-- :books: Always learning new things, self driven, hard working and friendly.:smiley:
-- :camera: With 10+ years of experience in Digital Marketing(SEO,Content Management) & Journalism.
-- :gem: I hold a Master degree in Communications Science, a Postdoc in TV-reporting, and certificates in webdevelopment, UX Design and Digital Marketing. 
+- :books: Learning new things, self driven, hard working and friendly.:smiley:
+- :camera: Experience 10+ years in Digital Marketing (SEO,Content Management) & TV-Journalism.
+- :gem: Communications Science (Master degree), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree certificates). 
+- :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
 
-:point_right: ### Other:
-- :clapper:In my spare time: I enjoy [writing about coding](https://medium.com/@diana.vile). And like to visit musea, cinema and other cultural activities. 
-- :bicyclist: You can also find me biking on a foldable bike or call me for a Chai Latte, Café con Leche or a walk in nature.
+### Sparetime: :point_down:
+- :clapper:  I like to visit musea, cinema and anything cultural. 
+- :bicyclist: You can find me biking on a foldable bike,  drinking a Chai Latte or Café con Leche and walking in nature.
 - :tulip: Enjoying familylife and constantly learning new things related to webdesign and webdevelopment is what keeps me alive and kicking. 
 
 <br />
 
 ### I´m using the following languages and Tools: :point_down: 
-* Responsive Web Design, Web Accessibility & Web Design & Prototyping with Figma.
+<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
