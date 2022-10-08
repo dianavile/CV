@@ -1,6 +1,6 @@
 ### Hi :raising_hand: I'm Diana Vilé
 
-- :computer: a Digital Communication Professional.
+- :computer: a Digital Marcom Professional.
 - :heart: I love to write, design prototypes, build websites and web applications.
 - :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
 - :electric_plug: **My GOAL: work as a MarTech Pro in a vibrant Tech company in Barcelona**.
