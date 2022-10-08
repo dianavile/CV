@@ -1,7 +1,7 @@
 ### Hi :raising_hand: I'm Diana Vilé
 
-- :computer: I'm a freelance Frontend Web Developer. 
-- :heart: I love to code, design prototypes, build websites and web applications.
+- :computer: I'm a Digital Communication Professional.
+- :heart: I love to write, design prototypes, build websites and web applications.
 - :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
 - :electric_plug: **My GOAL: work as a professional Front-end Developer in a vibrant Tech company in Barcelona**.
 - :octocat: I am open to collaborate with other digital content creators.
